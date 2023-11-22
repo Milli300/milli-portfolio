@@ -111,7 +111,6 @@ nav ul li {
 }
 .about-box p{
 	text-align: center;
-	font-size: 
 }
 .about{
 	text-align: center;
@@ -181,9 +180,6 @@ nav ul li {
 }
 
 
-
-
-
 .main-section2-th h2{
     color: #0070e7;
     text-align: center;
@@ -243,4 +239,11 @@ nav ul li {
     padding: 20px;
     line-height: 25px;
     color: #1e1e1e;
+}
+
+/* project section-3 */
+.section3-container{
+	width: 100%;
+	display: flex;
+	justify-content: space-evenly;
 }
